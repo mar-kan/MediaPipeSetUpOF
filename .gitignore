@@ -1,0 +1,22 @@
+# openFrameworks build
+build/
+bin/
+obj/
+*.o
+*.d
+*.app
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# IDE
+.vscode/
+*.code-workspace
+
+# reference files (local only)
+_reference/
