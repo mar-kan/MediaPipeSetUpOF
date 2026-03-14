@@ -1,0 +1,2537 @@
+{
+	"_OFProjectGeneratorVersion": "0.103.0",
+	"archiveVersion": "1",
+	"classes": {},
+	"objectVersion": "54",
+	"objects": {
+		"00E232FE-A6ED-48C8-A260-0A323DF8D62A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "marshal.h",
+			"sourceTree": "<group>"
+		},
+		"011CF116-21A5-4068-B032-E4E25D49A72C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "osdefs.h",
+			"sourceTree": "<group>"
+		},
+		"013C2734-07C8-408A-B5CC-5F8BED923434": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeTracker.cpp",
+			"sourceTree": "<group>"
+		},
+		"045BF561-459B-47A2-BF49-2BC9E96DA606": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_object.h",
+			"sourceTree": "<group>"
+		},
+		"0552633C-1320-4B48-80B1-287C0AFA4737": {
+			"children": [
+				"3D399018-2D30-4E1D-A9E3-1FF7A5403430",
+				"F6470DE2-FA24-4020-BC5F-25B116071EFA",
+				"67B74278-1A74-44F1-9EBC-22B6871FC5CF",
+				"6884CA94-4C1B-4203-BFF4-77DBF80B5586",
+				"D6E92759-B434-4DAB-AB38-3D033EEA294F",
+				"D7623AFC-6AC1-4F34-AFFD-14F954D74A0A",
+				"0B410E6E-EF04-4CF2-A6BE-34F28FA1404A"
+			],
+			"isa": "PBXGroup",
+			"name": "detail",
+			"path": "detail",
+			"sourceTree": "<group>"
+		},
+		"05B79A82-97FA-40F3-8354-73BE049ED0C2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "abstract.h",
+			"sourceTree": "<group>"
+		},
+		"05D2DEDD-2B12-4624-851E-F8DC1A894011": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "compile.h",
+			"sourceTree": "<group>"
+		},
+		"06077220-97CE-477A-8202-28ECDEA5649B": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_unicodeobject.h",
+			"sourceTree": "<group>"
+		},
+		"07442750-5B9B-403D-99EA-20C0AC653043": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "chrono.h",
+			"sourceTree": "<group>"
+		},
+		"0835D289-A9D4-4D6E-9865-29E48EB35033": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_list.h",
+			"sourceTree": "<group>"
+		},
+		"08A5AE1D-EC7C-4C3D-B750-7DB9930EFF3F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_hamt.h",
+			"sourceTree": "<group>"
+		},
+		"093C2124-7DE2-4813-A323-762018DE2BA3": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "setobject.h",
+			"sourceTree": "<group>"
+		},
+		"0977452D-7DE8-490D-9F73-3385E6D10D0D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_symtable.h",
+			"sourceTree": "<group>"
+		},
+		"0977F130-F74D-4BA9-AD5C-859C38B842F1": {
+			"children": [
+				"768AF723-3BC7-47FC-AE91-106E58F1B5AF",
+				"7B8557ED-BF4C-4D34-837F-E156DA67498B"
+			],
+			"isa": "PBXGroup",
+			"name": "libs",
+			"path": "libs",
+			"sourceTree": "<group>"
+		},
+		"0A3C34C7-2423-4D8D-BB82-5D1432AE0C12": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pythonrun.h",
+			"sourceTree": "<group>"
+		},
+		"0A633F93-FFA9-42F0-B340-7DE40C3A047F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_format.h",
+			"sourceTree": "<group>"
+		},
+		"0AE748FF-1A2D-4B01-989F-A55FF8D6E412": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "compile.h",
+			"sourceTree": "<group>"
+		},
+		"0B410E6E-EF04-4CF2-A6BE-34F28FA1404A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "typeid.h",
+			"sourceTree": "<group>"
+		},
+		"116EA891-5B31-4E3A-95B9-9E2DFC9507DD": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeUtils.cpp",
+			"sourceTree": "<group>"
+		},
+		"11897D1A-10EE-485F-B6B2-533063EFA7F2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "opcode.h",
+			"sourceTree": "<group>"
+		},
+		"13418103-9B0C-4E70-8244-272A6545DEFB": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pylifecycle.h",
+			"sourceTree": "<group>"
+		},
+		"135C8854-CDF7-4D42-A85B-D267CA76CC55": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "structseq.h",
+			"sourceTree": "<group>"
+		},
+		"1374D90A-78D2-456C-9468-F350FA816D30": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pystate.h",
+			"sourceTree": "<group>"
+		},
+		"13B775B4-51D6-4263-A01F-9DAEA16EE0D6": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_emscripten_signal.h",
+			"sourceTree": "<group>"
+		},
+		"13C40772-4698-409E-A355-1514B5F857B4": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipePlayback.h",
+			"sourceTree": "<group>"
+		},
+		"14526679-0F83-40C9-9C8E-F73D77CCF94F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "floatobject.h",
+			"sourceTree": "<group>"
+		},
+		"1570C29D-F9DB-4CCF-97E7-370F445437FE": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyhash.h",
+			"sourceTree": "<group>"
+		},
+		"163308C9-8896-4ED0-B1DD-51DB1AB2C2EA": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_bytesobject.h",
+			"sourceTree": "<group>"
+		},
+		"16AD8E2C-88B4-4C18-9E22-9B1E9CAB1D19": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipePlayback.cpp",
+			"sourceTree": "<group>"
+		},
+		"1746A78B-B3D3-48F4-A383-32E30B4E39F8": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "fileobject.h",
+			"sourceTree": "<group>"
+		},
+		"175419C9-489D-4DA2-A01E-7FC96D57F6D1": {
+			"children": [
+				"FA74F990-123D-48CD-B73B-DF2B3D9A8DEA"
+			],
+			"isa": "PBXGroup",
+			"name": "include",
+			"path": "include",
+			"sourceTree": "<group>"
+		},
+		"18E9D43D-AC84-4F36-8AD1-3BBF0F9AF24A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeTracker.h",
+			"sourceTree": "<group>"
+		},
+		"191CD6FA2847E21E0085CBB6": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.plist.entitlements",
+			"path": "of.entitlements",
+			"sourceTree": "<group>"
+		},
+		"191EF70929D778A400F35F26": {
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "folder",
+			"name": "openFrameworks",
+			"path": "../../../libs/openFrameworks",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1987ED90-0503-4A76-9EF2-CE4CA226192E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "matrix.h",
+			"sourceTree": "<group>"
+		},
+		"19B789C429E5AB4A0082E9B8": {
+			"alwaysOutOfDate": "1",
+			"buildActionMask": "2147483647",
+			"files": [],
+			"inputFileListPaths": [],
+			"inputPaths": [],
+			"isa": "PBXShellScriptBuildPhase",
+			"outputFileListPaths": [],
+			"outputPaths": [],
+			"runOnlyForDeploymentPostprocessing": "0",
+			"shellPath": "/bin/sh",
+			"shellScript": "\"$OF_PATH/scripts/osx/xcode_project.sh\"\n",
+			"showEnvVarsInLog": "0"
+		},
+		"1A0033A8-3357-4FB6-B2AC-B70F9710E575": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "memoryobject.h",
+			"sourceTree": "<group>"
+		},
+		"1AF2B8E5-02B6-4E19-9E54-331B06A6E592": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeOscReceiver.cpp",
+			"sourceTree": "<group>"
+		},
+		"1CFC6B25-7286-49FE-8E69-031DEC73D426": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_pymem.h",
+			"sourceTree": "<group>"
+		},
+		"1DC6E949-8714-4114-AB8A-F53961A1B6F3": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "buffer_info.h",
+			"sourceTree": "<group>"
+		},
+		"1EAF7E6E-9C6E-4042-AA8A-59E4FE20EC4C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "structmember.h",
+			"sourceTree": "<group>"
+		},
+		"1F811C83-0EDF-4816-97FD-FFDDC16403B0": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_bitutils.h",
+			"sourceTree": "<group>"
+		},
+		"1FA84E25-D76A-4CB5-8418-2434B313A610": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_condvar.h",
+			"sourceTree": "<group>"
+		},
+		"228BE5F8-0620-4AC7-8D2B-2EB3063A8DED": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "complex.h",
+			"sourceTree": "<group>"
+		},
+		"2353BFCE-B63A-4CAE-B4EA-D8F37A4340BD": {
+			"fileRef": "890ED8D3-1C7A-4A7C-BB8B-31536CD011E0",
+			"isa": "PBXBuildFile"
+		},
+		"245D53AA-0818-4997-AB89-F371DA0B6579": {
+			"fileRef": "2BC6B81B-320A-4CB9-8248-A9942FA8A845",
+			"isa": "PBXBuildFile"
+		},
+		"25662DA3-4078-4979-8FEB-473FA572B1BF": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_gc.h",
+			"sourceTree": "<group>"
+		},
+		"25A36E30-843E-4C07-83D8-5F94364320D0": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_context.h",
+			"sourceTree": "<group>"
+		},
+		"25CF1F0D-1981-4A98-A8BE-2F12A8B060E1": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_initconfig.h",
+			"sourceTree": "<group>"
+		},
+		"2608D3B8-B099-47A7-8BDA-AC71F84D6E55": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "exports.h",
+			"sourceTree": "<group>"
+		},
+		"28627D6F-C1F0-42C5-A671-332C60BC0519": {
+			"children": [
+				"CD965000-B500-4B04-924A-39FE781F12F3",
+				"ED62D824-0695-49FE-88ED-7F4008E9F33D",
+				"B980EF17-FCE5-4440-89C2-370CEAA04B2C",
+				"3777A82B-24FB-47BE-8862-CFCFF84CD48F",
+				"641F61A0-D54F-4C1E-BEC5-8D0E8FF66D4C",
+				"E88A30A7-0A5E-44C1-A9EE-BB1F8AF75F67",
+				"ADE6DC63-36B6-4F25-B8E4-FD7ADD521D7E",
+				"E6B203F1-2DF4-4472-B70A-BDC8345C411E",
+				"2BC6B81B-320A-4CB9-8248-A9942FA8A845",
+				"55DF8BA8-3525-40EC-A1AF-D95107F638AC",
+				"1AF2B8E5-02B6-4E19-9E54-331B06A6E592",
+				"9EE75A8A-E409-446D-B918-789F97B8CB50",
+				"890ED8D3-1C7A-4A7C-BB8B-31536CD011E0",
+				"9EADD6AB-6237-479F-BBD7-4059DE2B86F5",
+				"16AD8E2C-88B4-4C18-9E22-9B1E9CAB1D19",
+				"13C40772-4698-409E-A355-1514B5F857B4",
+				"F1B9A5BD-D85A-422C-82AE-61526B5B263E",
+				"83C23ECE-690B-4C66-90DE-B5C528216345",
+				"75F13128-BE99-4E78-ADDC-4C06F4CD96FC",
+				"E164809D-B0DD-4507-AA17-409EA3B5D87C",
+				"A6C6C922-10B8-4436-A447-5DA183D215DD",
+				"9D272C5C-4ECA-4B9C-A36A-4685123F5AB5",
+				"D58A48B0-43EA-4C87-BC35-1078263559D4",
+				"9DB21ECE-B71D-492B-A261-882078F9E4E2",
+				"013C2734-07C8-408A-B5CC-5F8BED923434",
+				"18E9D43D-AC84-4F36-8AD1-3BBF0F9AF24A",
+				"116EA891-5B31-4E3A-95B9-9E2DFC9507DD",
+				"59A5D766-C98F-4D9D-B4F8-937BBB6A9BD2"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"path": "src",
+			"sourceTree": "<group>"
+		},
+		"2959A012-E356-4F73-9906-10E6B1990520": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "operators.h",
+			"sourceTree": "<group>"
+		},
+		"2BA35053-0F9E-4690-B8E9-A07ED723693A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_hashtable.h",
+			"sourceTree": "<group>"
+		},
+		"2BC6B81B-320A-4CB9-8248-A9942FA8A845": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeHandTracker.cpp",
+			"sourceTree": "<group>"
+		},
+		"2C5C11E5-6DA0-4E2D-BA46-DAF2B7AA9B41": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pylifecycle.h",
+			"sourceTree": "<group>"
+		},
+		"2C90A6BE-33A2-425D-A41E-C85C3C6E180E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "genobject.h",
+			"sourceTree": "<group>"
+		},
+		"2EC3C721-3D3D-4DA9-9B23-D20FF5496FC3": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_pyarena.h",
+			"sourceTree": "<group>"
+		},
+		"30723A21-E9DE-4744-B024-00D949A03B97": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "odictobject.h",
+			"sourceTree": "<group>"
+		},
+		"307D66F6-140A-4D6B-BDE9-75FC3B87246D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_dtoa.h",
+			"sourceTree": "<group>"
+		},
+		"308EE3CC-0BD8-4D00-88B0-1FA30764A709": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_structseq.h",
+			"sourceTree": "<group>"
+		},
+		"316577E0-A3E6-4CE0-A16D-813BE5F5D241": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "numpy.h",
+			"sourceTree": "<group>"
+		},
+		"319EE0EC-DF41-48D3-9924-473C50F3779E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_global_objects.h",
+			"sourceTree": "<group>"
+		},
+		"328B6C53-EE94-4D00-AE11-6C12303A7145": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "errcode.h",
+			"sourceTree": "<group>"
+		},
+		"329F58EA-DDEC-4D05-9220-47B70176C1EA": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "enumobject.h",
+			"sourceTree": "<group>"
+		},
+		"33C2DEC3-FEC2-4C71-B0B8-E989333EEB10": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_pystate.h",
+			"sourceTree": "<group>"
+		},
+		"3549EBCD-4C7C-4E8F-9A53-963A46D60D35": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "eval.h",
+			"sourceTree": "<group>"
+		},
+		"361E0308-1114-4BAC-AA9C-6FFB8132CF8F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "moduleobject.h",
+			"sourceTree": "<group>"
+		},
+		"3777A82B-24FB-47BE-8862-CFCFF84CD48F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeFaceTracker.h",
+			"sourceTree": "<group>"
+		},
+		"38A02C0D-364C-4B04-99B3-292F5008BDDC": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ceval.h",
+			"sourceTree": "<group>"
+		},
+		"3C624A48-97DE-48FB-A535-8FD4FF29D3E2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "methodobject.h",
+			"sourceTree": "<group>"
+		},
+		"3D059456-D44E-46AB-BEC7-9EAB88D150B8": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "patchlevel.h",
+			"sourceTree": "<group>"
+		},
+		"3D399018-2D30-4E1D-A9E3-1FF7A5403430": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "class.h",
+			"sourceTree": "<group>"
+		},
+		"3DC52B91-715F-488F-97F4-F1B5F34F5EF7": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "stl.h",
+			"sourceTree": "<group>"
+		},
+		"406DDA35-0D95-496A-B96D-86E7AB04A6F7": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "longobject.h",
+			"sourceTree": "<group>"
+		},
+		"42AC20E5-9E08-473E-8E33-9A8588BD6308": {
+			"fileRef": "641F61A0-D54F-4C1E-BEC5-8D0E8FF66D4C",
+			"isa": "PBXBuildFile"
+		},
+		"4411532F-FD13-4B78-842E-B3C7A7A79440": {
+			"fileRef": "D58A48B0-43EA-4C87-BC35-1078263559D4",
+			"isa": "PBXBuildFile"
+		},
+		"44C991FC-4A6A-4A2A-A95F-E7CA8FCB2D99": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "tupleobject.h",
+			"sourceTree": "<group>"
+		},
+		"464D2E91-1412-486A-B2B6-B6D7E4FD4B83": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_asdl.h",
+			"sourceTree": "<group>"
+		},
+		"46F11CF7-87AE-4FD1-8708-8634DEE4EBC0": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "embed.h",
+			"sourceTree": "<group>"
+		},
+		"479934AB-399E-4413-9726-EEA329545469": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "tracemalloc.h",
+			"sourceTree": "<group>"
+		},
+		"484339DA-30F9-48E1-8C0E-2C6C306923AE": {
+			"fileRef": "116EA891-5B31-4E3A-95B9-9E2DFC9507DD",
+			"isa": "PBXBuildFile"
+		},
+		"49670F9C-C934-4951-A01E-D0AE45653D93": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "boolobject.h",
+			"sourceTree": "<group>"
+		},
+		"49E32278-9943-422F-A55A-64988A920BBB": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "common.h",
+			"sourceTree": "<group>"
+		},
+		"4A5481BC-45F1-499F-95E0-ABBC061F5950": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "traceback.h",
+			"sourceTree": "<group>"
+		},
+		"4B177662-15D6-47ED-BA38-A79091EDEABE": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "warnings.h",
+			"sourceTree": "<group>"
+		},
+		"4C34E6D8-3202-47C7-9D0D-E935D57EA164": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_sysmodule.h",
+			"sourceTree": "<group>"
+		},
+		"4F001E6A-F047-4308-91E9-F720317CC9BB": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "bltinmodule.h",
+			"sourceTree": "<group>"
+		},
+		"53034E64-54E2-4033-A1D4-35C2134E059B": {
+			"fileRef": "75F13128-BE99-4E78-ADDC-4C06F4CD96FC",
+			"isa": "PBXBuildFile"
+		},
+		"5478286F-3D6A-4A64-8D71-B64CC38ECB8A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "object.h",
+			"sourceTree": "<group>"
+		},
+		"54A1D721-3F2D-4F65-9904-8E07E3F2CE58": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "common.h",
+			"sourceTree": "<group>"
+		},
+		"55408446-9B0C-49E6-B36B-99500ECB0F01": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "modsupport.h",
+			"sourceTree": "<group>"
+		},
+		"55DF8BA8-3525-40EC-A1AF-D95107F638AC": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeHandTracker.h",
+			"sourceTree": "<group>"
+		},
+		"569BE939-C814-4D45-A7F7-5AB00BA3FF7B": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_dict.h",
+			"sourceTree": "<group>"
+		},
+		"59A5D766-C98F-4D9D-B4F8-937BBB6A9BD2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeUtils.h",
+			"sourceTree": "<group>"
+		},
+		"5C043C67-A649-4902-BB63-D57D6AE7ECC5": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "dictobject.h",
+			"sourceTree": "<group>"
+		},
+		"5CFF06AE-0F18-4CB9-B651-A930998B36AB": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_function.h",
+			"sourceTree": "<group>"
+		},
+		"5D879198-6D6B-42E6-AA48-0362E3D8620E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "tensor.h",
+			"sourceTree": "<group>"
+		},
+		"5DF0CE4F-4DC9-48E6-AD1D-6011DAEF1540": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "descrobject.h",
+			"sourceTree": "<group>"
+		},
+		"5E4595E0-1855-4C46-8D73-128A5C293B3B": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_getopt.h",
+			"sourceTree": "<group>"
+		},
+		"5F2A0E1D-324B-4D8F-B059-7701F4034304": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_pathconfig.h",
+			"sourceTree": "<group>"
+		},
+		"5F637201-9520-43B5-9FC4-B152DBC8B426": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pymacconfig.h",
+			"sourceTree": "<group>"
+		},
+		"5FE754AC-4CD5-493E-9FD0-72EA8FB1B913": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_signal.h",
+			"sourceTree": "<group>"
+		},
+		"5FF50C3D-239C-4C31-8C16-994033DEB310": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pybuffer.h",
+			"sourceTree": "<group>"
+		},
+		"60644ECA-860B-4F87-971F-8CF20CCB82C8": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pybind11.h",
+			"sourceTree": "<group>"
+		},
+		"611384DC-B810-411B-9E7A-85DBB0C19D0F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "weakrefobject.h",
+			"sourceTree": "<group>"
+		},
+		"6242A62A-B94F-4283-B9FD-74C8DFF54124": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pymem.h",
+			"sourceTree": "<group>"
+		},
+		"62736519-2EEC-4297-B19C-277F144364A2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "sysmodule.h",
+			"sourceTree": "<group>"
+		},
+		"62763386-A3BD-4BAC-B709-4FB0B7C2A05A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_exceptions.h",
+			"sourceTree": "<group>"
+		},
+		"63799791-13DB-4ED5-8CCF-296DD466C8AC": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_typeobject.h",
+			"sourceTree": "<group>"
+		},
+		"63E5E0F7-DF22-4C6E-99A0-49BB15A65674": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "filesystem.h",
+			"sourceTree": "<group>"
+		},
+		"641F61A0-D54F-4C1E-BEC5-8D0E8FF66D4C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeFrame.cpp",
+			"sourceTree": "<group>"
+		},
+		"652E30CC-5795-4AEB-B545-8234095EFF2B": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "import.h",
+			"sourceTree": "<group>"
+		},
+		"677D8197-2168-487E-ADCE-E6F2ACAC843D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "bytearrayobject.h",
+			"sourceTree": "<group>"
+		},
+		"67B74278-1A74-44F1-9EBC-22B6871FC5CF": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "descr.h",
+			"sourceTree": "<group>"
+		},
+		"68394D8D-93B1-4C1B-BB81-281D562B2190": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pystrcmp.h",
+			"sourceTree": "<group>"
+		},
+		"6884CA94-4C1B-4203-BFF4-77DBF80B5586": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "init.h",
+			"sourceTree": "<group>"
+		},
+		"69488488-5AE8-497E-A15C-E07833757314": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "methodobject.h",
+			"sourceTree": "<group>"
+		},
+		"69C993B2-9880-4B7B-BF8C-43623DF201F0": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "complexobject.h",
+			"sourceTree": "<group>"
+		},
+		"6AADD16C-6C56-47DE-B20E-E3BB76B41636": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "datetime.h",
+			"sourceTree": "<group>"
+		},
+		"6D8B9BB7-1A2F-4FF2-A9E4-BED08F69A43D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_unionobject.h",
+			"sourceTree": "<group>"
+		},
+		"703795BF-2C0D-4E93-B2BC-0CAAC9FD6F79": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_frame.h",
+			"sourceTree": "<group>"
+		},
+		"70820E11-B0F3-41B2-8ADB-327B9AF31F89": {
+			"children": [
+				"B38EB8E8-29BB-4720-8D9A-4538FC071941",
+				"EDC03696-3E66-4320-91BA-78344F9A7D01",
+				"464D2E91-1412-486A-B2B6-B6D7E4FD4B83",
+				"F1875FBB-1538-4AE9-A500-BE2D50A43711",
+				"F6034639-84CE-4381-A8FC-91A54EA3F5E6",
+				"F3EC9481-9FD5-45D8-9BEB-F7A1B7A89F8E",
+				"DB7C408B-752B-4827-9493-C6D2A29F7C8A",
+				"1F811C83-0EDF-4816-97FD-FFDDC16403B0",
+				"B25DAA45-98DE-405B-93E7-1AAB34FD2AC1",
+				"B659F748-3E27-4185-8DC2-F29CD7D13615",
+				"163308C9-8896-4ED0-B1DD-51DB1AB2C2EA",
+				"A18B15DA-F9CD-496E-9003-15177814F731",
+				"FC855F87-AE18-4FBD-8C69-85A4C0172E74",
+				"7D4539EF-7F01-410F-BC65-E17C2316DC72",
+				"950EBEB4-3E41-4415-AB29-AF3CC9B7688D",
+				"1FA84E25-D76A-4CB5-8418-2434B313A610",
+				"25A36E30-843E-4C07-83D8-5F94364320D0",
+				"569BE939-C814-4D45-A7F7-5AB00BA3FF7B",
+				"307D66F6-140A-4D6B-BDE9-75FC3B87246D",
+				"13B775B4-51D6-4263-A01F-9DAEA16EE0D6",
+				"62763386-A3BD-4BAC-B709-4FB0B7C2A05A",
+				"B4420758-0773-4497-B288-E52C8FF3361B",
+				"B9F122E2-6204-439E-94ED-DA5A1FF69D35",
+				"0A633F93-FFA9-42F0-B340-7DE40C3A047F",
+				"703795BF-2C0D-4E93-B2BC-0CAAC9FD6F79",
+				"5CFF06AE-0F18-4CB9-B651-A930998B36AB",
+				"25662DA3-4078-4979-8FEB-473FA572B1BF",
+				"A2E1A545-E8E5-49EC-B845-690EAFC9D99D",
+				"5E4595E0-1855-4C46-8D73-128A5C293B3B",
+				"99B24DD9-3486-44D3-97C5-608E07D6E1EF",
+				"319EE0EC-DF41-48D3-9924-473C50F3779E",
+				"908D3109-8B7D-4582-A4B0-F00C5A25A786",
+				"08A5AE1D-EC7C-4C3D-B750-7DB9930EFF3F",
+				"2BA35053-0F9E-4690-B8E9-A07ED723693A",
+				"C884F8A4-F539-4627-8F9B-D3E6A10D08BE",
+				"25CF1F0D-1981-4A98-A8BE-2F12A8B060E1",
+				"7558B2D5-266C-4CC5-9E72-EE9B3B62CFD4",
+				"94CC72C9-46D8-4597-B8E4-2E3908A0386E",
+				"0835D289-A9D4-4D6E-9865-29E48EB35033",
+				"E23BC3F4-4586-4931-8020-60B05DE8EAB5",
+				"98AF10FC-E22D-40D1-A6A3-292AE450E315",
+				"F3EFB632-1FE3-460E-B8A0-A2EE86985332",
+				"045BF561-459B-47A2-BF49-2BC9E96DA606",
+				"C9D15F94-4BBD-412B-8F1C-6F4A24B6A842",
+				"C006CE76-8015-4A39-96F4-3B833FE003C5",
+				"5F2A0E1D-324B-4D8F-B059-7701F4034304",
+				"2EC3C721-3D3D-4DA9-9B23-D20FF5496FC3",
+				"9F7A817B-1F1E-4840-9DD8-632F0CBBA06B",
+				"B664AAB1-BCE4-4CA3-8F8A-96E169F7AA5D",
+				"CDE15411-E638-4DBB-8FA3-25E84C4FFFCA",
+				"E31AE5FC-732C-4A49-BF8E-2CAC4084BE97",
+				"1CFC6B25-7286-49FE-8E69-031DEC73D426",
+				"33C2DEC3-FEC2-4C71-B0B8-E989333EEB10",
+				"912A05C5-D018-488F-A6EC-E547995A100C",
+				"E19F4815-2BB1-445D-BE57-2F4658A400BD",
+				"5FE754AC-4CD5-493E-9FD0-72EA8FB1B913",
+				"971883B8-5D1D-4380-AC8E-DA522E6C14E8",
+				"79B1E5C0-F0BD-4718-AE36-2D76CDF3EE07",
+				"308EE3CC-0BD8-4D00-88B0-1FA30764A709",
+				"0977452D-7DE8-490D-9F73-3385E6D10D0D",
+				"4C34E6D8-3202-47C7-9D0D-E935D57EA164",
+				"C18E3561-8F74-4BEB-811C-A7740D7A376A",
+				"7DA170C8-539C-4535-9D99-CD970AA7B60E",
+				"63799791-13DB-4ED5-8CCF-296DD466C8AC",
+				"D66887CE-366B-421C-8427-04EC643CED68",
+				"06077220-97CE-477A-8202-28ECDEA5649B",
+				"6D8B9BB7-1A2F-4FF2-A9E4-BED08F69A43D",
+				"7130C1AF-AA37-4AFB-8BC7-7AF7C5D7F9F5"
+			],
+			"isa": "PBXGroup",
+			"name": "internal",
+			"path": "internal",
+			"sourceTree": "<group>"
+		},
+		"70D50B47-38F7-4CEF-9C11-671A659E8CDF": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "weakrefobject.h",
+			"sourceTree": "<group>"
+		},
+		"7130C1AF-AA37-4AFB-8BC7-7AF7C5D7F9F5": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_warnings.h",
+			"sourceTree": "<group>"
+		},
+		"72016D46-7295-4B64-8552-26B35A884A4D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "unicodeobject.h",
+			"sourceTree": "<group>"
+		},
+		"726CA5A8-0F30-4015-98C7-5690C9CBB2BD": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyframe.h",
+			"sourceTree": "<group>"
+		},
+		"72E95CD3-CC95-4B18-95BE-0CD79CAB2A3B": {
+			"fileRef": "F1B9A5BD-D85A-422C-82AE-61526B5B263E",
+			"isa": "PBXBuildFile"
+		},
+		"7558B2D5-266C-4CC5-9E72-EE9B3B62CFD4": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_interp.h",
+			"sourceTree": "<group>"
+		},
+		"75F13128-BE99-4E78-ADDC-4C06F4CD96FC": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipePoseTracker.cpp",
+			"sourceTree": "<group>"
+		},
+		"768AF723-3BC7-47FC-AE91-106E58F1B5AF": {
+			"children": [
+				"175419C9-489D-4DA2-A01E-7FC96D57F6D1"
+			],
+			"isa": "PBXGroup",
+			"name": "pybind11",
+			"path": "pybind11",
+			"sourceTree": "<group>"
+		},
+		"76CE693A-4AD0-43FE-A326-9ADB9D3E8662": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "fileutils.h",
+			"sourceTree": "<group>"
+		},
+		"78809019-EB81-43D9-A7F1-D1537AA3B6E4": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "osmodule.h",
+			"sourceTree": "<group>"
+		},
+		"79B1E5C0-F0BD-4718-AE36-2D76CDF3EE07": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_strhex.h",
+			"sourceTree": "<group>"
+		},
+		"7A29839A-90C4-4867-9646-918D56D70DED": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ceval.h",
+			"sourceTree": "<group>"
+		},
+		"7B8557ED-BF4C-4D34-837F-E156DA67498B": {
+			"children": [
+				"9F21C29B-E1A6-4E0B-9597-D9FEF6A6632F"
+			],
+			"isa": "PBXGroup",
+			"name": "python",
+			"path": "python",
+			"sourceTree": "<group>"
+		},
+		"7D4539EF-7F01-410F-BC65-E17C2316DC72": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_code.h",
+			"sourceTree": "<group>"
+		},
+		"7DA170C8-539C-4535-9D99-CD970AA7B60E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_tuple.h",
+			"sourceTree": "<group>"
+		},
+		"7E9E0DAC-3189-419E-A86D-607537E9E190": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyfpe.h",
+			"sourceTree": "<group>"
+		},
+		"81267DE9-9A92-4251-80A4-AAAA1D7FB840": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "py_curses.h",
+			"sourceTree": "<group>"
+		},
+		"834AA95C-F48B-4577-90D5-C016ED513D3F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "tupleobject.h",
+			"sourceTree": "<group>"
+		},
+		"83C23ECE-690B-4C66-90DE-B5C528216345": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipePose.h",
+			"sourceTree": "<group>"
+		},
+		"8441CC37-077C-4372-8260-6685A79355FD": {
+			"children": [
+				"63E5E0F7-DF22-4C6E-99A0-49BB15A65674"
+			],
+			"isa": "PBXGroup",
+			"name": "stl",
+			"path": "stl",
+			"sourceTree": "<group>"
+		},
+		"8469D041-F236-4351-B9BB-7C9EAA1633DE": {
+			"children": [
+				"0977F130-F74D-4BA9-AD5C-859C38B842F1",
+				"28627D6F-C1F0-42C5-A671-332C60BC0519"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxMediaPipePython",
+			"path": "ofxMediaPipePython",
+			"sourceTree": "<group>"
+		},
+		"85211001-D839-4464-906D-EC38B797F2FF": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "dictobject.h",
+			"sourceTree": "<group>"
+		},
+		"856C42EC-6B67-4788-900F-AD3F50706601": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "type_caster_pyobject_ptr.h",
+			"sourceTree": "<group>"
+		},
+		"86233273-D4EE-4148-B042-744D8ADEE1A0": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pythread.h",
+			"sourceTree": "<group>"
+		},
+		"8688B3D8-15C8-4E14-AC9A-EB601A43D1FD": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "bytesobject.h",
+			"sourceTree": "<group>"
+		},
+		"890ED8D3-1C7A-4A7C-BB8B-31536CD011E0": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeOscSender.cpp",
+			"sourceTree": "<group>"
+		},
+		"892C87E6-991C-4E4D-A164-A3AC790301E6": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pymacro.h",
+			"sourceTree": "<group>"
+		},
+		"8A7AB64A-9711-4D14-A4C5-4EE587193391": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "frameobject.h",
+			"sourceTree": "<group>"
+		},
+		"8A901727-F101-40D8-8D8D-E6BC37277507": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "codecs.h",
+			"sourceTree": "<group>"
+		},
+		"8DB91E69-9322-4C8F-A58C-E52FBA191C8B": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "modsupport.h",
+			"sourceTree": "<group>"
+		},
+		"8EC657B0-C393-4480-A884-3F6B93718333": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyctype.h",
+			"sourceTree": "<group>"
+		},
+		"8F6F35C9-0BA5-4891-97FF-B09AD643C683": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "intrcheck.h",
+			"sourceTree": "<group>"
+		},
+		"8FF0B88F-96B4-4089-A737-66E48028B977": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pystate.h",
+			"sourceTree": "<group>"
+		},
+		"9084D463-D17F-4832-9690-65DD27F82DC5": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pydtrace.h",
+			"sourceTree": "<group>"
+		},
+		"908D3109-8B7D-4582-A4B0-F00C5A25A786": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_global_strings.h",
+			"sourceTree": "<group>"
+		},
+		"912A05C5-D018-488F-A6EC-E547995A100C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_runtime.h",
+			"sourceTree": "<group>"
+		},
+		"94061B33-3810-4346-8320-698B40F8DBB2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "attr.h",
+			"sourceTree": "<group>"
+		},
+		"9425DB14-3637-4B1E-8442-D1F68BC0F8D0": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pytypes.h",
+			"sourceTree": "<group>"
+		},
+		"94CC72C9-46D8-4597-B8E4-2E3908A0386E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_interpreteridobject.h",
+			"sourceTree": "<group>"
+		},
+		"950EBEB4-3E41-4415-AB29-AF3CC9B7688D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_compile.h",
+			"sourceTree": "<group>"
+		},
+		"96111F3A-7A31-40F8-84E1-6DA27446179F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "functional.h",
+			"sourceTree": "<group>"
+		},
+		"971883B8-5D1D-4380-AC8E-DA522E6C14E8": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_sliceobject.h",
+			"sourceTree": "<group>"
+		},
+		"97988821-0E5A-4F4C-9962-52002594E652": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "code.h",
+			"sourceTree": "<group>"
+		},
+		"98AF10FC-E22D-40D1-A6A3-292AE450E315": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_moduleobject.h",
+			"sourceTree": "<group>"
+		},
+		"99B24DD9-3486-44D3-97C5-608E07D6E1EF": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_gil.h",
+			"sourceTree": "<group>"
+		},
+		"9A4274F9-3615-4710-B12B-F1C2B1B5805C": {
+			"fileRef": "CD965000-B500-4B04-924A-39FE781F12F3",
+			"isa": "PBXBuildFile"
+		},
+		"9CDDB882-B741-4696-A562-B1F27A77853E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "abstract.h",
+			"sourceTree": "<group>"
+		},
+		"9D272C5C-4ECA-4B9C-A36A-4685123F5AB5": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeRecorder.h",
+			"sourceTree": "<group>"
+		},
+		"9DB21ECE-B71D-492B-A261-882078F9E4E2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeTrackedObject.h",
+			"sourceTree": "<group>"
+		},
+		"9EADD6AB-6237-479F-BBD7-4059DE2B86F5": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeOscSender.h",
+			"sourceTree": "<group>"
+		},
+		"9EE75A8A-E409-446D-B918-789F97B8CB50": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeOscReceiver.h",
+			"sourceTree": "<group>"
+		},
+		"9F21C29B-E1A6-4E0B-9597-D9FEF6A6632F": {
+			"children": [
+				"CFD63C4F-CE2B-4610-A9C0-F0635EE4E815"
+			],
+			"isa": "PBXGroup",
+			"name": "include",
+			"path": "include",
+			"sourceTree": "<group>"
+		},
+		"9F7A817B-1F1E-4840-9DD8-632F0CBBA06B": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_pyerrors.h",
+			"sourceTree": "<group>"
+		},
+		"A004B3E6-2490-47A7-9744-23DFCAB0DE13": {
+			"fileRef": "A6C6C922-10B8-4436-A447-5DA183D215DD",
+			"isa": "PBXBuildFile"
+		},
+		"A18B15DA-F9CD-496E-9003-15177814F731": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_call.h",
+			"sourceTree": "<group>"
+		},
+		"A1B14783-88FC-482F-AFA3-559A78351FD7": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyconfig.h",
+			"sourceTree": "<group>"
+		},
+		"A2E1A545-E8E5-49EC-B845-690EAFC9D99D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_genobject.h",
+			"sourceTree": "<group>"
+		},
+		"A436E1DF-D944-4C15-8CCE-485F8C179E43": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "typeslots.h",
+			"sourceTree": "<group>"
+		},
+		"A4C712BA-588C-4A12-BA41-767419AA7793": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pymem.h",
+			"sourceTree": "<group>"
+		},
+		"A60B3FEE-1DB9-4208-AB75-40A037B8113A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "objimpl.h",
+			"sourceTree": "<group>"
+		},
+		"A6C6C922-10B8-4436-A447-5DA183D215DD": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeRecorder.cpp",
+			"sourceTree": "<group>"
+		},
+		"ADE6DC63-36B6-4F25-B8E4-FD7ADD521D7E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeHand.cpp",
+			"sourceTree": "<group>"
+		},
+		"AF302F46-C664-4707-84EC-26EC60A56AFE": {
+			"fileRef": "ADE6DC63-36B6-4F25-B8E4-FD7ADD521D7E",
+			"isa": "PBXBuildFile"
+		},
+		"AF9A55D9-2739-4109-82F0-275B5A73BE0D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyerrors.h",
+			"sourceTree": "<group>"
+		},
+		"B02034EF-A881-4327-9A06-96ED04A5E057": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "sysmodule.h",
+			"sourceTree": "<group>"
+		},
+		"B1375C3C-3C7A-4C39-B561-82938D4DBCAE": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "genericaliasobject.h",
+			"sourceTree": "<group>"
+		},
+		"B20398FA-3D16-432D-BA09-99D657C0756A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "traceback.h",
+			"sourceTree": "<group>"
+		},
+		"B25DAA45-98DE-405B-93E7-1AAB34FD2AC1": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_blocks_output_buffer.h",
+			"sourceTree": "<group>"
+		},
+		"B2C13C01-A854-4C5E-AACC-15F9C9E3D7E9": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "warnings.h",
+			"sourceTree": "<group>"
+		},
+		"B3857998-27B6-47F0-9ED2-00877B2E4B00": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "token.h",
+			"sourceTree": "<group>"
+		},
+		"B38EB8E8-29BB-4720-8D9A-4538FC071941": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_abstract.h",
+			"sourceTree": "<group>"
+		},
+		"B4420758-0773-4497-B288-E52C8FF3361B": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_fileutils.h",
+			"sourceTree": "<group>"
+		},
+		"B4D45B0F-DB1C-4974-A0E1-F14A2E86D3B6": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "gil.h",
+			"sourceTree": "<group>"
+		},
+		"B56B1E51-9F07-4DA8-9BA0-A5623E835F05": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyerrors.h",
+			"sourceTree": "<group>"
+		},
+		"B63A17CD-F481-4FCF-A31C-9492D54DAAAE": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pytypedefs.h",
+			"sourceTree": "<group>"
+		},
+		"B659F748-3E27-4185-8DC2-F29CD7D13615": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_bytes_methods.h",
+			"sourceTree": "<group>"
+		},
+		"B664AAB1-BCE4-4CA3-8F8A-96E169F7AA5D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_pyhash.h",
+			"sourceTree": "<group>"
+		},
+		"B66D5CE7-378F-4F77-B792-7A6F2C8865C2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pthread_stubs.h",
+			"sourceTree": "<group>"
+		},
+		"B7C02A9E-9B8B-4CE5-ADB6-A79001242DFD": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "options.h",
+			"sourceTree": "<group>"
+		},
+		"B8A30E52-5F45-449E-B877-5D6F4BA5108C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "sliceobject.h",
+			"sourceTree": "<group>"
+		},
+		"B8D57A69-2095-423A-A298-37CF8C6ED0E9": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "unicodeobject.h",
+			"sourceTree": "<group>"
+		},
+		"B976D6F0-D349-4B82-A8A6-627BCB718D1C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "object.h",
+			"sourceTree": "<group>"
+		},
+		"B980EF17-FCE5-4440-89C2-370CEAA04B2C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeFaceTracker.cpp",
+			"sourceTree": "<group>"
+		},
+		"B9F122E2-6204-439E-94ED-DA5A1FF69D35": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_floatobject.h",
+			"sourceTree": "<group>"
+		},
+		"BB4B014C10F69532006C3DED": {
+			"children": [
+				"8469D041-F236-4351-B9BB-7C9EAA1633DE"
+			],
+			"isa": "PBXGroup",
+			"name": "addons",
+			"path": "../../../addons",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BB8716C7-496C-4241-B71B-E5BB6FDFAE85": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "classobject.h",
+			"sourceTree": "<group>"
+		},
+		"BDA9CCB4-91D7-40BF-84ED-C5F12A68081A": {
+			"fileRef": "B980EF17-FCE5-4440-89C2-370CEAA04B2C",
+			"isa": "PBXBuildFile"
+		},
+		"BE345A62-5B50-4268-974F-4BF33AD8E605": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "floatobject.h",
+			"sourceTree": "<group>"
+		},
+		"BF4A7F47-8B17-40E8-BC98-74957501838F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pythonrun.h",
+			"sourceTree": "<group>"
+		},
+		"BFD0A8C1-EAFC-4448-A4C7-13F4112518AC": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pymath.h",
+			"sourceTree": "<group>"
+		},
+		"C006CE76-8015-4A39-96F4-3B833FE003C5": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_parser.h",
+			"sourceTree": "<group>"
+		},
+		"C0D68401-3CAF-49EF-9163-68585DEAAA52": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pythread.h",
+			"sourceTree": "<group>"
+		},
+		"C18E3561-8F74-4BEB-811C-A7740D7A376A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_traceback.h",
+			"sourceTree": "<group>"
+		},
+		"C421E9F3-8070-4AC9-AAC1-A44A0DF08A24": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "cast.h",
+			"sourceTree": "<group>"
+		},
+		"C57AD1E4-B0E2-4967-86EA-38D951B8D34B": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "frameobject.h",
+			"sourceTree": "<group>"
+		},
+		"C884F8A4-F539-4627-8F9B-D3E6A10D08BE": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_import.h",
+			"sourceTree": "<group>"
+		},
+		"C8DCA54C-1FD4-4370-9F22-97C190CBAD96": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "folder",
+			"name": "data",
+			"path": "bin/data",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"C9D15F94-4BBD-412B-8F1C-6F4A24B6A842": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_opcode.h",
+			"sourceTree": "<group>"
+		},
+		"CBDFCBC0-C9FC-46A4-A1C8-B35C1DC45155": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pydebug.h",
+			"sourceTree": "<group>"
+		},
+		"CC173211-93AF-4169-B9CC-FAC1EABF2E39": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "bytesobject.h",
+			"sourceTree": "<group>"
+		},
+		"CD965000-B500-4B04-924A-39FE781F12F3": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeFace.cpp",
+			"sourceTree": "<group>"
+		},
+		"CDE15411-E638-4DBB-8FA3-25E84C4FFFCA": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_pylifecycle.h",
+			"sourceTree": "<group>"
+		},
+		"CDF79466-8BAF-4661-A6D5-1C4C9E92C502": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pystrtod.h",
+			"sourceTree": "<group>"
+		},
+		"CFD63C4F-CE2B-4610-A9C0-F0635EE4E815": {
+			"children": [
+				"D984A8E5-0FD0-4901-8C63-8D8FCA5CDA0D",
+				"05B79A82-97FA-40F3-8354-73BE049ED0C2",
+				"4F001E6A-F047-4308-91E9-F720317CC9BB",
+				"49670F9C-C934-4951-A01E-D0AE45653D93",
+				"677D8197-2168-487E-ADCE-E6F2ACAC843D",
+				"8688B3D8-15C8-4E14-AC9A-EB601A43D1FD",
+				"38A02C0D-364C-4B04-99B3-292F5008BDDC",
+				"8A901727-F101-40D8-8D8D-E6BC37277507",
+				"0AE748FF-1A2D-4B01-989F-A55FF8D6E412",
+				"E2E38C6A-1864-4B08-8142-89903E3B0F5C",
+				"E4113842-06A6-4EC6-806A-E6913B52DB9D",
+				"6AADD16C-6C56-47DE-B20E-E3BB76B41636",
+				"F239F1EF-931E-4C94-9AF5-D3063CD072EF",
+				"5C043C67-A649-4902-BB63-D57D6AE7ECC5",
+				"D9A3BFDC-883A-4812-9AF2-39E58FC7E232",
+				"329F58EA-DDEC-4D05-9220-47B70176C1EA",
+				"328B6C53-EE94-4D00-AE11-6C12303A7145",
+				"2608D3B8-B099-47A7-8BDA-AC71F84D6E55",
+				"1746A78B-B3D3-48F4-A383-32E30B4E39F8",
+				"76CE693A-4AD0-43FE-A326-9ADB9D3E8662",
+				"BE345A62-5B50-4268-974F-4BF33AD8E605",
+				"8A7AB64A-9711-4D14-A4C5-4EE587193391",
+				"B1375C3C-3C7A-4C39-B561-82938D4DBCAE",
+				"652E30CC-5795-4AEB-B545-8234095EFF2B",
+				"70820E11-B0F3-41B2-8ADB-327B9AF31F89",
+				"8F6F35C9-0BA5-4891-97FF-B09AD643C683",
+				"E4239D44-69DF-4CCA-B699-6D070CCB2F08",
+				"D6031B28-D275-4587-8B17-35A5668A6A02",
+				"406DDA35-0D95-496A-B96D-86E7AB04A6F7",
+				"00E232FE-A6ED-48C8-A260-0A323DF8D62A",
+				"1A0033A8-3357-4FB6-B2AC-B70F9710E575",
+				"3C624A48-97DE-48FB-A535-8FD4FF29D3E2",
+				"55408446-9B0C-49E6-B36B-99500ECB0F01",
+				"361E0308-1114-4BAC-AA9C-6FFB8132CF8F",
+				"5478286F-3D6A-4A64-8D71-B64CC38ECB8A",
+				"E391D1DE-5EF6-4441-B4CC-DDB44B3F7217",
+				"11897D1A-10EE-485F-B6B2-533063EFA7F2",
+				"011CF116-21A5-4068-B032-E4E25D49A72C",
+				"78809019-EB81-43D9-A7F1-D1537AA3B6E4",
+				"3D059456-D44E-46AB-BEC7-9EAB88D150B8",
+				"81267DE9-9A92-4251-80A4-AAAA1D7FB840",
+				"5FF50C3D-239C-4C31-8C16-994033DEB310",
+				"FD23B208-5234-45B0-9153-FA8211B44D84",
+				"A1B14783-88FC-482F-AFA3-559A78351FD7",
+				"9084D463-D17F-4832-9690-65DD27F82DC5",
+				"AF9A55D9-2739-4109-82F0-275B5A73BE0D",
+				"D00B42C9-191B-4A81-AEE9-ABDB3683C145",
+				"726CA5A8-0F30-4015-98C7-5690C9CBB2BD",
+				"1570C29D-F9DB-4CCF-97E7-370F445437FE",
+				"13418103-9B0C-4E70-8244-272A6545DEFB",
+				"5F637201-9520-43B5-9FC4-B152DBC8B426",
+				"892C87E6-991C-4E4D-A164-A3AC790301E6",
+				"BFD0A8C1-EAFC-4448-A4C7-13F4112518AC",
+				"A4C712BA-588C-4A12-BA41-767419AA7793",
+				"D1FDF1E1-B6A9-407D-A64C-54CD9B8DF181",
+				"1374D90A-78D2-456C-9468-F350FA816D30",
+				"68394D8D-93B1-4C1B-BB81-281D562B2190",
+				"CDF79466-8BAF-4661-A6D5-1C4C9E92C502",
+				"BF4A7F47-8B17-40E8-BC98-74957501838F",
+				"C0D68401-3CAF-49EF-9163-68585DEAAA52",
+				"B63A17CD-F481-4FCF-A31C-9492D54DAAAE",
+				"FACB7E44-F67F-482E-83E6-F1A9E5DDCEA7",
+				"093C2124-7DE2-4813-A323-762018DE2BA3",
+				"B8A30E52-5F45-449E-B877-5D6F4BA5108C",
+				"1EAF7E6E-9C6E-4042-AA8A-59E4FE20EC4C",
+				"135C8854-CDF7-4D42-A85B-D267CA76CC55",
+				"62736519-2EEC-4297-B19C-277F144364A2",
+				"B3857998-27B6-47F0-9ED2-00877B2E4B00",
+				"B20398FA-3D16-432D-BA09-99D657C0756A",
+				"479934AB-399E-4413-9726-EEA329545469",
+				"44C991FC-4A6A-4A2A-A95F-E7CA8FCB2D99",
+				"A436E1DF-D944-4C15-8CCE-485F8C179E43",
+				"72016D46-7295-4B64-8552-26B35A884A4D",
+				"4B177662-15D6-47ED-BA38-A79091EDEABE",
+				"70D50B47-38F7-4CEF-9C11-671A659E8CDF"
+			],
+			"isa": "PBXGroup",
+			"name": "python3.11",
+			"path": "python3.11",
+			"sourceTree": "<group>"
+		},
+		"D00B42C9-191B-4A81-AEE9-ABDB3683C145": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyexpat.h",
+			"sourceTree": "<group>"
+		},
+		"D175F73E-03BA-4CFF-8C46-B519E6961777": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "eigen.h",
+			"sourceTree": "<group>"
+		},
+		"D1C75529-EC68-429E-BB7D-41954B54548A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "longintrepr.h",
+			"sourceTree": "<group>"
+		},
+		"D1FDF1E1-B6A9-407D-A64C-54CD9B8DF181": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyport.h",
+			"sourceTree": "<group>"
+		},
+		"D539DBEF-C2DE-4B52-A8A7-2AD5D6700727": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "picklebufobject.h",
+			"sourceTree": "<group>"
+		},
+		"D58A48B0-43EA-4C87-BC35-1078263559D4": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipeTrackedObject.cpp",
+			"sourceTree": "<group>"
+		},
+		"D6031B28-D275-4587-8B17-35A5668A6A02": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "listobject.h",
+			"sourceTree": "<group>"
+		},
+		"D66887CE-366B-421C-8427-04EC643CED68": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_ucnhash.h",
+			"sourceTree": "<group>"
+		},
+		"D6695D7E-8301-4207-99C1-5C0EEE86E256": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "import.h",
+			"sourceTree": "<group>"
+		},
+		"D6E92759-B434-4DAB-AB38-3D033EEA294F": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "internals.h",
+			"sourceTree": "<group>"
+		},
+		"D7623AFC-6AC1-4F34-AFFD-14F954D74A0A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "type_caster_base.h",
+			"sourceTree": "<group>"
+		},
+		"D8061FC1-B575-4827-B1CD-EF62BBEE7134": {
+			"children": [
+				"54A1D721-3F2D-4F65-9904-8E07E3F2CE58",
+				"1987ED90-0503-4A76-9EF2-CE4CA226192E",
+				"5D879198-6D6B-42E6-AA48-0362E3D8620E"
+			],
+			"isa": "PBXGroup",
+			"name": "eigen",
+			"path": "eigen",
+			"sourceTree": "<group>"
+		},
+		"D984A8E5-0FD0-4901-8C63-8D8FCA5CDA0D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "Python.h",
+			"sourceTree": "<group>"
+		},
+		"D9A3BFDC-883A-4812-9AF2-39E58FC7E232": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "dynamic_annotations.h",
+			"sourceTree": "<group>"
+		},
+		"D9AF69BA-458C-4189-A9DB-2E007AD4CF4A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "stl_bind.h",
+			"sourceTree": "<group>"
+		},
+		"DAE8D6E4-493B-44E8-BF6E-9CB15DFBC605": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pytime.h",
+			"sourceTree": "<group>"
+		},
+		"DB7C408B-752B-4827-9493-C6D2A29F7C8A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_atomic_funcs.h",
+			"sourceTree": "<group>"
+		},
+		"DD133BBC-3CC5-40DE-8875-FD3FBD7D108E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "fileobject.h",
+			"sourceTree": "<group>"
+		},
+		"DEA9A5C4-04B0-4C85-BB5C-30E10F54BABA": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "listobject.h",
+			"sourceTree": "<group>"
+		},
+		"E164809D-B0DD-4507-AA17-409EA3B5D87C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipePoseTracker.h",
+			"sourceTree": "<group>"
+		},
+		"E19F4815-2BB1-445D-BE57-2F4658A400BD": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_runtime_init.h",
+			"sourceTree": "<group>"
+		},
+		"E1FC9465-3ECF-4214-B79C-776240077727": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "setobject.h",
+			"sourceTree": "<group>"
+		},
+		"E206ABE3-4185-46EF-8D12-3CAB43CEDF1C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pyframe.h",
+			"sourceTree": "<group>"
+		},
+		"E23BC3F4-4586-4931-8020-60B05DE8EAB5": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_long.h",
+			"sourceTree": "<group>"
+		},
+		"E2E38C6A-1864-4B08-8142-89903E3B0F5C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "complexobject.h",
+			"sourceTree": "<group>"
+		},
+		"E31AE5FC-732C-4A49-BF8E-2CAC4084BE97": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_pymath.h",
+			"sourceTree": "<group>"
+		},
+		"E391D1DE-5EF6-4441-B4CC-DDB44B3F7217": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "objimpl.h",
+			"sourceTree": "<group>"
+		},
+		"E4113842-06A6-4EC6-806A-E6913B52DB9D": {
+			"children": [
+				"9CDDB882-B741-4696-A562-B1F27A77853E",
+				"F5E4F3EF-F63E-411F-9918-4FCE91B87E0A",
+				"CC173211-93AF-4169-B9CC-FAC1EABF2E39",
+				"E9736C6F-D1C7-4932-A9D4-6DB046901041",
+				"7A29839A-90C4-4867-9646-918D56D70DED",
+				"BB8716C7-496C-4241-B71B-E5BB6FDFAE85",
+				"97988821-0E5A-4F4C-9962-52002594E652",
+				"05D2DEDD-2B12-4624-851E-F8DC1A894011",
+				"69C993B2-9880-4B7B-BF8C-43623DF201F0",
+				"F572B5A9-D59F-434C-982F-CD81C86F872E",
+				"5DF0CE4F-4DC9-48E6-AD1D-6011DAEF1540",
+				"85211001-D839-4464-906D-EC38B797F2FF",
+				"DD133BBC-3CC5-40DE-8875-FD3FBD7D108E",
+				"F8843C17-C5C8-4EE5-94B1-D2754D5AE789",
+				"14526679-0F83-40C9-9C8E-F73D77CCF94F",
+				"C57AD1E4-B0E2-4967-86EA-38D951B8D34B",
+				"F7250B0F-61B8-44A3-8211-C25D0DB30496",
+				"2C90A6BE-33A2-425D-A41E-C85C3C6E180E",
+				"D6695D7E-8301-4207-99C1-5C0EEE86E256",
+				"E60EB25A-9342-4684-9C40-0A2D41B43D66",
+				"DEA9A5C4-04B0-4C85-BB5C-30E10F54BABA",
+				"D1C75529-EC68-429E-BB7D-41954B54548A",
+				"EE8CFED1-1B49-42F3-B044-68D5D798662C",
+				"69488488-5AE8-497E-A15C-E07833757314",
+				"8DB91E69-9322-4C8F-A58C-E52FBA191C8B",
+				"B976D6F0-D349-4B82-A8A6-627BCB718D1C",
+				"A60B3FEE-1DB9-4208-AB75-40A037B8113A",
+				"30723A21-E9DE-4744-B024-00D949A03B97",
+				"D539DBEF-C2DE-4B52-A8A7-2AD5D6700727",
+				"B66D5CE7-378F-4F77-B792-7A6F2C8865C2",
+				"8EC657B0-C393-4480-A884-3F6B93718333",
+				"CBDFCBC0-C9FC-46A4-A1C8-B35C1DC45155",
+				"B56B1E51-9F07-4DA8-9BA0-A5623E835F05",
+				"7E9E0DAC-3189-419E-A86D-607537E9E190",
+				"E206ABE3-4185-46EF-8D12-3CAB43CEDF1C",
+				"2C5C11E5-6DA0-4E2D-BA46-DAF2B7AA9B41",
+				"6242A62A-B94F-4283-B9FD-74C8DFF54124",
+				"8FF0B88F-96B4-4089-A737-66E48028B977",
+				"0A3C34C7-2423-4D8D-BB82-5D1432AE0C12",
+				"86233273-D4EE-4148-B042-744D8ADEE1A0",
+				"DAE8D6E4-493B-44E8-BF6E-9CB15DFBC605",
+				"E1FC9465-3ECF-4214-B79C-776240077727",
+				"B02034EF-A881-4327-9A06-96ED04A5E057",
+				"4A5481BC-45F1-499F-95E0-ABBC061F5950",
+				"834AA95C-F48B-4577-90D5-C016ED513D3F",
+				"B8D57A69-2095-423A-A298-37CF8C6ED0E9",
+				"B2C13C01-A854-4C5E-AACC-15F9C9E3D7E9",
+				"611384DC-B810-411B-9E7A-85DBB0C19D0F"
+			],
+			"isa": "PBXGroup",
+			"name": "cpython",
+			"path": "cpython",
+			"sourceTree": "<group>"
+		},
+		"E4239D44-69DF-4CCA-B699-6D070CCB2F08": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "iterobject.h",
+			"sourceTree": "<group>"
+		},
+		"E42962A92163ECCD00A6A9E2": {
+			"alwaysOutOfDate": "1",
+			"buildActionMask": "2147483647",
+			"files": [],
+			"inputPaths": [],
+			"isa": "PBXShellScriptBuildPhase",
+			"name": "Run Script — Compile OF",
+			"outputPaths": [],
+			"runOnlyForDeploymentPostprocessing": "0",
+			"shellPath": "/bin/sh",
+			"shellScript": "$OF_CORE_BUILD_COMMAND\n",
+			"showEnvVarsInLog": "0"
+		},
+		"E4A5B60F29BAAAE400C2D356": {
+			"buildActionMask": "2147483647",
+			"dstPath": "",
+			"dstSubfolderSpec": "6",
+			"files": [],
+			"isa": "PBXCopyFilesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B4A0A3A1720003C02F2": {
+			"children": [
+				"191CD6FA2847E21E0085CBB6",
+				"E4B6FCAD0C3E899E008CF71C",
+				"E4EB6923138AFD0F00A09F29",
+				"E4B69E1C0A3A1BDC003C02F2",
+				"191EF70929D778A400F35F26",
+				"BB4B014C10F69532006C3DED",
+				"E4B69B5B0A3A1756003C02F2",
+				"C8DCA54C-1FD4-4370-9F22-97C190CBAD96"
+			],
+			"isa": "PBXGroup",
+			"sourceTree": "<group>"
+		},
+		"E4B69B4C0A3A1720003C02F2": {
+			"attributes": {
+				"BuildIndependentTargetsInParallel": "YES",
+				"LastUpgradeCheck": "1540"
+			},
+			"buildConfigurationList": "E4B69B4D0A3A1720003C02F2",
+			"compatibilityVersion": "Xcode 3.2",
+			"developmentRegion": "en",
+			"hasScannedForEncodings": "0",
+			"isa": "PBXProject",
+			"knownRegions": [
+				"en",
+				"Base"
+			],
+			"mainGroup": "E4B69B4A0A3A1720003C02F2",
+			"productRefGroup": "E4B69B4A0A3A1720003C02F2",
+			"projectDirPath": "",
+			"projectRoot": "",
+			"targets": [
+				"E4B69B5A0A3A1756003C02F2"
+			]
+		},
+		"E4B69B4D0A3A1720003C02F2": {
+			"buildConfigurations": [
+				"E4B69B4E0A3A1720003C02F2",
+				"E4B69B4F0A3A1720003C02F2"
+			],
+			"defaultConfigurationIsVisible": "0",
+			"defaultConfigurationName": "Release",
+			"isa": "XCConfigurationList"
+		},
+		"E4B69B4E0A3A1720003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"CODE_SIGN_ENTITLEMENTS": "of.entitlements",
+				"COPY_PHASE_STRIP": "NO",
+				"ENABLE_TESTABILITY": "YES",
+				"GCC_OPTIMIZATION_LEVEL": "0",
+				"GCC_WARN_UNUSED_VARIABLE": "NO",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src"
+				],
+				"OTHER_CPLUSPLUSFLAGS": "-D__MACOSX_CORE__"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Debug"
+		},
+		"E4B69B4F0A3A1720003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"CODE_SIGN_ENTITLEMENTS": "of.entitlements",
+				"COPY_PHASE_STRIP": "YES",
+				"GCC_OPTIMIZATION_LEVEL": "3",
+				"GCC_UNROLL_LOOPS": "YES",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src"
+				],
+				"OTHER_CPLUSPLUSFLAGS": "-D__MACOSX_CORE__"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Release"
+		},
+		"E4B69B580A3A1756003C02F2": {
+			"buildActionMask": "2147483647",
+			"files": [
+				"E4B69E200A3A1BDC003C02F2",
+				"E4B69E210A3A1BDC003C02F2",
+				"9A4274F9-3615-4710-B12B-F1C2B1B5805C",
+				"BDA9CCB4-91D7-40BF-84ED-C5F12A68081A",
+				"42AC20E5-9E08-473E-8E33-9A8588BD6308",
+				"AF302F46-C664-4707-84EC-26EC60A56AFE",
+				"245D53AA-0818-4997-AB89-F371DA0B6579",
+				"F8FD0E17-7A1F-4F5F-BFC4-2B127E4A16F1",
+				"2353BFCE-B63A-4CAE-B4EA-D8F37A4340BD",
+				"EE62A188-9207-4E23-8AE2-307E09ED7874",
+				"72E95CD3-CC95-4B18-95BE-0CD79CAB2A3B",
+				"53034E64-54E2-4033-A1D4-35C2134E059B",
+				"A004B3E6-2490-47A7-9744-23DFCAB0DE13",
+				"4411532F-FD13-4B78-842E-B3C7A7A79440",
+				"FE98B3B6-D47A-4D3A-AE07-8C9D27025A25",
+				"484339DA-30F9-48E1-8C0E-2C6C306923AE"
+			],
+			"isa": "PBXSourcesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B590A3A1756003C02F2": {
+			"buildActionMask": "2147483647",
+			"files": [],
+			"isa": "PBXFrameworksBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B5A0A3A1756003C02F2": {
+			"buildConfigurationList": "E4B69B5F0A3A1757003C02F2",
+			"buildPhases": [
+				"E42962A92163ECCD00A6A9E2",
+				"E4B69B580A3A1756003C02F2",
+				"E4B69B590A3A1756003C02F2",
+				"E4C2427710CC5ABF004149E2",
+				"E4A5B60F29BAAAE400C2D356",
+				"19B789C429E5AB4A0082E9B8"
+			],
+			"buildRules": [],
+			"dependencies": [],
+			"isa": "PBXNativeTarget",
+			"name": "deepfake-detector",
+			"productName": "myOFApp",
+			"productReference": "E4B69B5B0A3A1756003C02F2",
+			"productType": "com.apple.product-type.application"
+		},
+		"E4B69B5B0A3A1756003C02F2": {
+			"explicitFileType": "wrapper.application",
+			"includeInIndex": "0",
+			"isa": "PBXFileReference",
+			"path": "deepfake-detectorDebug.app",
+			"sourceTree": "BUILT_PRODUCTS_DIR"
+		},
+		"E4B69B5F0A3A1757003C02F2": {
+			"buildConfigurations": [
+				"E4B69B600A3A1757003C02F2",
+				"E4B69B610A3A1757003C02F2"
+			],
+			"defaultConfigurationIsVisible": "0",
+			"defaultConfigurationName": "Release",
+			"isa": "XCConfigurationList"
+		},
+		"E4B69B600A3A1757003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"ARCHS": "$(ARCHS_STANDARD)",
+				"COPY_PHASE_STRIP": "NO",
+				"FRAMEWORK_SEARCH_PATHS": "$(inherited)",
+				"GCC_DYNAMIC_NO_PIC": "NO",
+				"GCC_PREPROCESSOR_DEFINITIONS": [
+					[
+						null
+					],
+					"OF_ADDON_HAS_OFX_MEDIAPIPE_PYTHON"
+				],
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src",
+					"src",
+					"../../../addons/ofxMediaPipePython/libs",
+					"../../../addons/ofxMediaPipePython/libs/pybind11",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include/pybind11",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include/pybind11/detail",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include/pybind11/eigen",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include/pybind11/stl",
+					"../../../addons/ofxMediaPipePython/libs/python",
+					"../../../addons/ofxMediaPipePython/libs/python/include",
+					"../../../addons/ofxMediaPipePython/libs/python/include/python3.11",
+					"../../../addons/ofxMediaPipePython/libs/python/include/python3.11/cpython",
+					"../../../addons/ofxMediaPipePython/libs/python/include/python3.11/internal",
+					"../../../addons/ofxMediaPipePython/libs/python/lib",
+					"../../../addons/ofxMediaPipePython/src",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include",
+					"../../../addons/ofxMediaPipePython/libs/python/include/python3.11"
+				],
+				"LIBRARY_SEARCH_PATHS": "$(inherited)",
+				"OTHER_LDFLAGS": [
+					"$(OF_CORE_LIBS)",
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(LIB_OF_DEBUG)",
+					"-Wl,-rpath,@executable_path/",
+					"../../../addons/ofxMediaPipePython/libs/python/lib/osx/libpython3.11.dylib"
+				]
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Debug"
+		},
+		"E4B69B610A3A1757003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"ARCHS": "$(ARCHS_STANDARD)",
+				"COPY_PHASE_STRIP": "YES",
+				"FRAMEWORK_SEARCH_PATHS": "$(inherited)",
+				"GCC_PREPROCESSOR_DEFINITIONS": [
+					[
+						null
+					],
+					"OF_ADDON_HAS_OFX_MEDIAPIPE_PYTHON"
+				],
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src",
+					"src",
+					"../../../addons/ofxMediaPipePython/libs",
+					"../../../addons/ofxMediaPipePython/libs/pybind11",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include/pybind11",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include/pybind11/detail",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include/pybind11/eigen",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include/pybind11/stl",
+					"../../../addons/ofxMediaPipePython/libs/python",
+					"../../../addons/ofxMediaPipePython/libs/python/include",
+					"../../../addons/ofxMediaPipePython/libs/python/include/python3.11",
+					"../../../addons/ofxMediaPipePython/libs/python/include/python3.11/cpython",
+					"../../../addons/ofxMediaPipePython/libs/python/include/python3.11/internal",
+					"../../../addons/ofxMediaPipePython/libs/python/lib",
+					"../../../addons/ofxMediaPipePython/src",
+					"../../../addons/ofxMediaPipePython/libs/pybind11/include",
+					"../../../addons/ofxMediaPipePython/libs/python/include/python3.11"
+				],
+				"LIBRARY_SEARCH_PATHS": "$(inherited)",
+				"OTHER_LDFLAGS": [
+					"$(OF_CORE_LIBS)",
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(LIB_OF_RELEASE)",
+					"-Wl,-rpath,@executable_path/",
+					"../../../addons/ofxMediaPipePython/libs/python/lib/osx/libpython3.11.dylib"
+				],
+				"baseConfigurationReference": "E4EB6923138AFD0F00A09F29"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Release"
+		},
+		"E4B69E1C0A3A1BDC003C02F2": {
+			"children": [
+				"E4B69E1D0A3A1BDC003C02F2",
+				"E4B69E1E0A3A1BDC003C02F2",
+				"E4B69E1F0A3A1BDC003C02F2"
+			],
+			"isa": "PBXGroup",
+			"path": "src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1D0A3A1BDC003C02F2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "main.cpp",
+			"path": "src/main.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1E0A3A1BDC003C02F2": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofApp.cpp",
+			"path": "src/ofApp.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1F0A3A1BDC003C02F2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.c.h",
+			"name": "ofApp.h",
+			"path": "src/ofApp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E200A3A1BDC003C02F2": {
+			"fileRef": "E4B69E1D0A3A1BDC003C02F2",
+			"isa": "PBXBuildFile"
+		},
+		"E4B69E210A3A1BDC003C02F2": {
+			"fileRef": "E4B69E1E0A3A1BDC003C02F2",
+			"isa": "PBXBuildFile"
+		},
+		"E4B6FCAD0C3E899E008CF71C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.plist.xml",
+			"path": "openFrameworks-Info.plist",
+			"sourceTree": "<group>"
+		},
+		"E4C2427710CC5ABF004149E2": {
+			"buildActionMask": "2147483647",
+			"dstPath": "",
+			"dstSubfolderSpec": "10",
+			"files": [],
+			"isa": "PBXCopyFilesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4EB6923138AFD0F00A09F29": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.xcconfig",
+			"path": "Project.xcconfig",
+			"sourceTree": "<group>"
+		},
+		"E60EB25A-9342-4684-9C40-0A2D41B43D66": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "initconfig.h",
+			"sourceTree": "<group>"
+		},
+		"E6B203F1-2DF4-4472-B70A-BDC8345C411E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeHand.h",
+			"sourceTree": "<group>"
+		},
+		"E88A30A7-0A5E-44C1-A9EE-BB1F8AF75F67": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeFrame.h",
+			"sourceTree": "<group>"
+		},
+		"E9736C6F-D1C7-4932-A9D4-6DB046901041": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "cellobject.h",
+			"sourceTree": "<group>"
+		},
+		"ED62D824-0695-49FE-88ED-7F4008E9F33D": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "ofxMediaPipeFace.h",
+			"sourceTree": "<group>"
+		},
+		"EDC03696-3E66-4320-91BA-78344F9A7D01": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_accu.h",
+			"sourceTree": "<group>"
+		},
+		"EE62A188-9207-4E23-8AE2-307E09ED7874": {
+			"fileRef": "16AD8E2C-88B4-4C18-9E22-9B1E9CAB1D19",
+			"isa": "PBXBuildFile"
+		},
+		"EE8CFED1-1B49-42F3-B044-68D5D798662C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "longobject.h",
+			"sourceTree": "<group>"
+		},
+		"F1875FBB-1538-4AE9-A500-BE2D50A43711": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_ast.h",
+			"sourceTree": "<group>"
+		},
+		"F1B9A5BD-D85A-422C-82AE-61526B5B263E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "ofxMediaPipePose.cpp",
+			"sourceTree": "<group>"
+		},
+		"F239F1EF-931E-4C94-9AF5-D3063CD072EF": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "descrobject.h",
+			"sourceTree": "<group>"
+		},
+		"F3EC9481-9FD5-45D8-9BEB-F7A1B7A89F8E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_atomic.h",
+			"sourceTree": "<group>"
+		},
+		"F3EFB632-1FE3-460E-B8A0-A2EE86985332": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_namespace.h",
+			"sourceTree": "<group>"
+		},
+		"F572B5A9-D59F-434C-982F-CD81C86F872E": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "context.h",
+			"sourceTree": "<group>"
+		},
+		"F5E4F3EF-F63E-411F-9918-4FCE91B87E0A": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "bytearrayobject.h",
+			"sourceTree": "<group>"
+		},
+		"F6034639-84CE-4381-A8FC-91A54EA3F5E6": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_ast_state.h",
+			"sourceTree": "<group>"
+		},
+		"F6470DE2-FA24-4020-BC5F-25B116071EFA": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "common.h",
+			"sourceTree": "<group>"
+		},
+		"F7250B0F-61B8-44A3-8211-C25D0DB30496": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "funcobject.h",
+			"sourceTree": "<group>"
+		},
+		"F8843C17-C5C8-4EE5-94B1-D2754D5AE789": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "fileutils.h",
+			"sourceTree": "<group>"
+		},
+		"F8FD0E17-7A1F-4F5F-BFC4-2B127E4A16F1": {
+			"fileRef": "1AF2B8E5-02B6-4E19-9E54-331B06A6E592",
+			"isa": "PBXBuildFile"
+		},
+		"FA74F990-123D-48CD-B73B-DF2B3D9A8DEA": {
+			"children": [
+				"94061B33-3810-4346-8320-698B40F8DBB2",
+				"1DC6E949-8714-4114-AB8A-F53961A1B6F3",
+				"C421E9F3-8070-4AC9-AAC1-A44A0DF08A24",
+				"07442750-5B9B-403D-99EA-20C0AC653043",
+				"49E32278-9943-422F-A55A-64988A920BBB",
+				"228BE5F8-0620-4AC7-8D2B-2EB3063A8DED",
+				"0552633C-1320-4B48-80B1-287C0AFA4737",
+				"D175F73E-03BA-4CFF-8C46-B519E6961777",
+				"D8061FC1-B575-4827-B1CD-EF62BBEE7134",
+				"46F11CF7-87AE-4FD1-8708-8634DEE4EBC0",
+				"3549EBCD-4C7C-4E8F-9A53-963A46D60D35",
+				"96111F3A-7A31-40F8-84E1-6DA27446179F",
+				"B4D45B0F-DB1C-4974-A0E1-F14A2E86D3B6",
+				"FFEE45B8-13A2-4374-80E0-A9998F5799FA",
+				"316577E0-A3E6-4CE0-A16D-813BE5F5D241",
+				"2959A012-E356-4F73-9906-10E6B1990520",
+				"B7C02A9E-9B8B-4CE5-ADB6-A79001242DFD",
+				"60644ECA-860B-4F87-971F-8CF20CCB82C8",
+				"9425DB14-3637-4B1E-8442-D1F68BC0F8D0",
+				"3DC52B91-715F-488F-97F4-F1B5F34F5EF7",
+				"8441CC37-077C-4372-8260-6685A79355FD",
+				"D9AF69BA-458C-4189-A9DB-2E007AD4CF4A",
+				"856C42EC-6B67-4788-900F-AD3F50706601"
+			],
+			"isa": "PBXGroup",
+			"name": "pybind11",
+			"path": "pybind11",
+			"sourceTree": "<group>"
+		},
+		"FACB7E44-F67F-482E-83E6-F1A9E5DDCEA7": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "rangeobject.h",
+			"sourceTree": "<group>"
+		},
+		"FC855F87-AE18-4FBD-8C69-85A4C0172E74": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycore_ceval.h",
+			"sourceTree": "<group>"
+		},
+		"FD23B208-5234-45B0-9153-FA8211B44D84": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "pycapsule.h",
+			"sourceTree": "<group>"
+		},
+		"FE98B3B6-D47A-4D3A-AE07-8C9D27025A25": {
+			"fileRef": "013C2734-07C8-408A-B5CC-5F8BED923434",
+			"isa": "PBXBuildFile"
+		},
+		"FFEE45B8-13A2-4374-80E0-A9998F5799FA": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.h",
+			"name": "iostream.h",
+			"sourceTree": "<group>"
+		}
+	},
+	"rootObject": "E4B69B4C0A3A1720003C02F2"
+}
