@@ -6,6 +6,12 @@
 #include "ofxMediaPipeFaceTracker.h"
 #include "ofxMediaPipePoseTracker.h"
 
+enum SourceMode {
+        MODE_CAMERA,
+        MODE_VIDEO,
+        MODE_IMAGE
+    };
+
 class ofApp : public ofBaseApp {
 public:
     void setup() override;
@@ -13,7 +19,9 @@ public:
     void draw() override;
     void exit() override;
 
-    // void keyPressed(int key) override;
+    void keyPressed(int key) override;
+    void resetAI();
+    
 	// void keyReleased(int key) override;
 	// void mouseMoved(int x, int y ) override;
 	// void mouseDragged(int x, int y, int button) override;
@@ -36,4 +44,9 @@ public:
 
 private:
     ofVideoGrabber cam;
+    ofVideoPlayer videoPlayer;
+    ofImage loadedImage;
+    
+    SourceMode currentMode = MODE_CAMERA;
+    bool processImageOnce = false;
 };

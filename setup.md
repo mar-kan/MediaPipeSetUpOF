@@ -1,22 +1,22 @@
 # Fresh Ubuntu installation of OpenFrameworks
 
-1. Download openFrameworks from https://openframeworks.cc/download/
-2. Open a terminal and cd to openFrameworks location
-3. Unzip and rename the folder
+### 1. Download openFrameworks from https://openframeworks.cc/download/
+### 2. Open a terminal and cd to openFrameworks location
+### 3. Unzip and rename the folder
 
 ```bash
     tar -zxvf of_v0.12.0_linux64gcc6_release.tar.gz
     mv of_v0.12.0_linux64gcc6_release openFrameworks
 ```
 
-4. Install OF dependencies:
+### 4. Install OF dependencies:
 
 ```bash
 cd openFrameworks/scripts/linux/ubuntu
 sudo ./install_dependencies.sh
 ```
 
-5. Compile OF and Project Generator:
+### 5. Compile OF and Project Generator:
 ```bash
 cd ..
 ./compileOF.sh -j4
@@ -31,7 +31,7 @@ make
 make run
 ```
 
-# Setting up ofxMediaPipe
+# ofxMediaPipe Setup
 
 ### 1. Download ofxMediaPipe:
 
@@ -46,7 +46,7 @@ cd ofxMediaPipePython
 ./InstallMediaPipe.sh
 ```
 
-### 3. Download required models
+### 3. Download required model
 ```bash
 mkdir -p <of path>/openFrameworks/addons/ofxMediaPipe/libs/mediapipe/models
 cd <of path>/openFrameworks/addons/ofxMediaPipe/libs/mediapipe/models
@@ -73,6 +73,19 @@ pip install Pillow matplotlib
 
 # Set up project
 
+### Existing project
+
+```bash
+git clone https://github.com/Mista-Kev/deepfake-detector.git
+cd <of path>/openFrameworks/projectGenerator
+./projectGenerator
+```
+
+Import the existing project, add the oxfMediaPipePython addon, configure your platform, and update.
+
+
+![alt text](include/image-1.png)
+
 ### New project
 
 Using the project generator:
@@ -82,22 +95,10 @@ cd <of path>/openFrameworks/projectGenerator
 ./projectGenerator
 ```
 
-Import the existing project, add the oxfMediaPipePython addon, configure your platform, and update.
+Create a new project, add the oxfMediaPipePython addon, configure your platform, and generate.
 
 
 ![alt text](include/image.png)
-
-### Existing project
-
-```bash
-git clone https://github.com/Mista-Kev/deepfake-detector.git
-cd <of path>/openFrameworks/projectGenerator
-./projectGenerator
-```
-
-Create a new project, add the oxfMediaPipePython addon, configure your platform, and generate.
-
-![alt text](include/image-1.png)
 
 # Execution
 
